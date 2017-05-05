@@ -8,5 +8,6 @@ namespace gitWithVS
 {
     class NewClass2
     {
+        // maj pour B1
     }
 }
