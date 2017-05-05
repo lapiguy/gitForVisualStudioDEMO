@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace gitWithVS
 {
-    class Program
+    class NewClass2
     {
-        static void Main(string[] args)
-        {
-            // Changement sur le master à partir de VS
-        }
     }
 }
