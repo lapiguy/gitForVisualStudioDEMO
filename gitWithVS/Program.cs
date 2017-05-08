@@ -13,6 +13,8 @@ namespace gitWithVS
             // Changement sur le master à partir de VS
 
             // autres changements de VS
+
+            // des chg 1 de 3
         }
     }
 }
