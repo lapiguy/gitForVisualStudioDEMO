@@ -11,6 +11,8 @@ namespace gitWithVS
         static void Main(string[] args)
         {
             // Changement sur le master à partir de VS
+
+            // autres changements de VS
         }
     }
 }
