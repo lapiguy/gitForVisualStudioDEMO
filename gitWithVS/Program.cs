@@ -15,6 +15,8 @@ namespace gitWithVS
             // autres changements de VS
 
             // des chg 1 de 3
+
+            // des chg 2 de 3
         }
     }
 }
